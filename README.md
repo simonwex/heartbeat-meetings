@@ -63,7 +63,7 @@ _1 hour_
   * Reset expectations if there are too many/too few issues comitted to
   * Communicate to those impacted
 
-Day 10 - Friday Demos
+## Day 10 - Friday Demos
 
 _1 hour_
 
